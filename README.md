@@ -1,0 +1,2 @@
+# satria-store
+landing page
